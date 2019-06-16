@@ -1,0 +1,6 @@
+{
+    "sketch": "ShiftRegister.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbmodem14101",
+    "programmer": "Atmel STK500 development board"
+}
